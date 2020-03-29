@@ -3,13 +3,12 @@ const request = require('supertest');
 const connection = require('../../src/database/connection')
 describe('ONG', () =>{
     beforeEach(async () => {
-       await connection.migrate.rollback();
-       
-       await connection.migrate.latest();
+        await connection.migrate.latest();
     });
-
-    afterAll( async () => {
-       await connection.destroy();
+      
+      afterAll(async () => {
+        await connection.migrate.rollback();
+        await connection.destroy();
     });
 
     it('should be able to acreate a new ONG', async () => {
