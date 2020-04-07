@@ -28,4 +28,4 @@ Solução com o objetivo de conectar pessoas e ONG's para ajudá-las financeiram
 
 ![image](https://user-images.githubusercontent.com/37751297/78619715-7a243280-7854-11ea-9890-0e918b7aaeef.png)
 
-<img src="https://user-images.githubusercontent.com/37751297/78619911-fdde1f00-7854-11ea-9203-a167242a359a.png" width="300" height="615"><img src="https://user-images.githubusercontent.com/37751297/78620934-ac835f00-7857-11ea-9dbd-05b895d9bd4c.jpg" width="300" height="615"> <img src="https://user-images.githubusercontent.com/37751297/78620192-b1471380-7855-11ea-96d5-a7ea57fa884c.jpg" width="300" height="615">
+<img src="https://user-images.githubusercontent.com/37751297/78619911-fdde1f00-7854-11ea-9203-a167242a359a.png" width="300" height="615"><img src="https://user-images.githubusercontent.com/37751297/78621058-02f09d80-7858-11ea-9c22-0455964df1a5.png" width="300" height="615"> <img src="https://user-images.githubusercontent.com/37751297/78620192-b1471380-7855-11ea-96d5-a7ea57fa884c.jpg" width="300" height="615">
